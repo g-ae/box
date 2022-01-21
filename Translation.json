@@ -1,0 +1,14 @@
+{
+  "EN": {
+    "menuTitle": "box game\nby gonçalo",
+    "menuStart": "play",
+    "menuHowToPlay": "how to play",
+    "menuInfo": "(click on what you want to do/see)"
+  },
+  "FR": {
+    "menuTitle": "box game\npar gonçalo",
+    "menuStart": "jouer",
+    "menuHowToPlay": "comment jouer",
+    "menuInfo": "(cliquez sur ce que vous voulez voir/faire)"
+  }
+}

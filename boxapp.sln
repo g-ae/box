@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxapp", "boxapp.csproj", "{1B92FBF2-6C26-4BFF-9DB9-D517AB2F290C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B92FBF2-6C26-4BFF-9DB9-D517AB2F290C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B92FBF2-6C26-4BFF-9DB9-D517AB2F290C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B92FBF2-6C26-4BFF-9DB9-D517AB2F290C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B92FBF2-6C26-4BFF-9DB9-D517AB2F290C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3D06C0-8A06-4CBF-A0D6-93481F652E35}
+	EndGlobalSection
+EndGlobal
