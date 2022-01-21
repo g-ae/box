@@ -1,7 +1,7 @@
 # Box game
 
 Box game I coded a while ago
-Code is outdated I'll maybe rewrite it some time
+\Code is outdated I'll maybe rewrite it some time
 
 ### Setup
 
